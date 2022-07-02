@@ -1,0 +1,14 @@
+
+
+.flex{
+    background-color: aqua;
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
+}
+.style{
+    border: 1px solid brown;
+    margin: 15px;
+    padding: 20px;
+ 
+}
